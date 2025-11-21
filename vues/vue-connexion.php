@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>SB - Avis</title>
+		<title>SB - Produits</title>
 	</head>
 	<body>
 		
